@@ -1,0 +1,136 @@
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe.config
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormConnect.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormStart.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmCMND.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDanToc.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmHome.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLogin.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLuong.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmMain.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Properties.Resources.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CopyComplete
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe.config
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormConnect.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormStart.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmCMND.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDanToc.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmHome.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLogin.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLuong.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmMain.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Properties.Resources.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CopyComplete
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormConnect.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormStart.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmCMND.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDanToc.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmHome.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLogin.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLuong.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmMain.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Properties.Resources.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe.config
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CopyComplete
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe.config
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\DoanQuanlyNhanSu.pdb
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormConnect.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FormStart.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmCMND.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDanToc.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmHome.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLogin.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmLuong.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmMain.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Properties.Resources.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.csproj.CopyComplete
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.exe
+C:\Users\admin\Downloads\DoanQuanLyNhanSu (1)\DoanQuanLyNhanSu\DoanQuanLyNhanSu\DoanQuanlyNhanSu\obj\x86\Debug\DoanQuanlyNhanSu.pdb
